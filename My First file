@@ -1,1 +1,10 @@
-My java program
+import java.util.*;
+{
+public static void main(String args[])
+{
+int a,b,sum;
+System.out.print("Enter the values");
+sum=a+b;
+System.out.print("Addition is="+sum);
+}
+}
